@@ -9,7 +9,7 @@ function App() {
   return (
     <AuthProvider>
       <ChakraProvider>
-        <Container maxW="container.xl">
+        <Container maxW="container.lg">
           <Header />
           <Main />
           <Tasks />

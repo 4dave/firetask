@@ -1,9 +1,14 @@
 import React from "react"
+import "./test.css"
 
 export default function Test() {
   return (
-    <div>
-      <h1>TEST</h1>
-    </div>
+    <>
+      <div class="container">
+        <header>HEADER</header>
+        <main>MAIN</main>
+        <footer>FOOTER</footer>
+      </div>
+    </>
   )
 }
