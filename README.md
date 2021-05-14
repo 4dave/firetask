@@ -6,3 +6,5 @@
   `npm i @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^4`
 
 - firebase config stored in local gitignored `.env` and env vars passed to host at deployment/runtime
+
+-
